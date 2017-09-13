@@ -28,13 +28,28 @@ We will be looking for the following things:
 - Materials must be in a clearly commented Jupyter notebook.
 - Students should demonstrate the ability to:
 
-    - Analyze diverse datasets & explicitly state your assumptions.
-    - Form hypotheses and justify them with solid statistical testing in NumPy. 
-    - Visualize and interpret your plots using Matplotlib and Seaborn. 
+1. Analyze diverse datasets & explicitly state your assumptions.
+2. Form hypotheses and justify them with solid statistical testing in NumPy. 
+3. Visualize and interpret your plots using Matplotlib and Seaborn. 
 
 ---
 
-### Useful Resources
+
+## Project Feedback + Evaluation
+
+For all projects, students will be evaluated on a simple 3 point scale (0, 1, or 2). Instructors will use this rubric when scoring student performance on each of the core project **requirements:** 
+
+Score | Expectations
+----- | ------------
+**0** | _Does not meet expectations. Try again._
+**1** | _Meets expectations. Good job._
+**2** | _Surpasses expectations. Brilliant!_
+
+[For more information on how we grade our DSI projects, see our project grading walkthrough.](https://git.generalassemb.ly/dsi-projects/readme/blob/master/README.md)
+
+---
+
+## Useful Resources
 
 - Here's a [cheatsheet](https://chrisalbon.com/python/pandas_dataframe_descriptive_stats.html) of descriptive statistics methods in Pandas.
 
@@ -42,17 +57,3 @@ We will be looking for the following things:
 
 - Inferential statistics and hypothesis testing can get very nuanced. It is okay to violate some of the assumptions underlying the methods you've learned. But be explicit about why you've chosen a particular method, and what the drawbacks may be.
 
----
-
-### Project Feedback + Evaluation
-
-For all projects, students will be evaluated on a simple 3 point scale (0, 1, or 2). Instructors will use this rubric when scoring student performance on each of the core project **requirements:** 
-
- Score | Expectations
- ----- | ------------
- **0** | _Does not meet expectations. Try again._
- **1** | _Meets expectations. Good job._
- **2** | _Surpasses expectations. Brilliant!_
-
-
-[For more information on how we grade our DSI projects, see our project grading walkthrough.](https://git.generalassemb.ly/dsi-projects/readme/blob/master/README.md)
